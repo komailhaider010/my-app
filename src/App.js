@@ -6,7 +6,7 @@ function formatName(user) {
 
 const some = {
   firstName: 'Harper',
-  lastName: 'Perez'
+  lastName: 'model'
 };
 
 function GetGreeting({ user }) {
